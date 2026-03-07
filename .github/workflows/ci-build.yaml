@@ -18,6 +18,7 @@ jobs:
     # Étapes à exécuter
     steps:
       # Récupérer le code du dépôt
+      # Récupérer le code du dépôt
       - name: Checkout code
         uses: actions/checkout@v4
 
