@@ -53,3 +53,4 @@ jobs:
           #exit-code: 1
           vuln-type: os,library
           ignore-unfixed: true
+          #output: trivy-results.txt
